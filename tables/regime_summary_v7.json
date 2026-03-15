@@ -1,0 +1,155 @@
+{
+  "pareto_summary": [
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "B2_MINIMAL_PQC",
+      "pareto_optimal_fraction": 0.9444444444444444
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A0_MINIMAL_PQC",
+      "pareto_optimal_fraction": 0.5
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "B1_CLASSICAL",
+      "pareto_optimal_fraction": 0.3888888888888889
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "P3_HYBRID_QKD",
+      "pareto_optimal_fraction": 0.3404255319148936
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "P1_PQC_MLDSA",
+      "pareto_optimal_fraction": 0.3333333333333333
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A6_FULL_HARDENED",
+      "pareto_optimal_fraction": 0.1111111111111111
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A3_HYBRID_QKD",
+      "pareto_optimal_fraction": 0.07692307692307693
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A4_HYBRID_QKD_AUTH",
+      "pareto_optimal_fraction": 0.07692307692307693
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "P4_HYBRID_QKD_LINDBLAD",
+      "pareto_optimal_fraction": 0.07692307692307693
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "P2_PQC_MLDSA_LINDBLAD",
+      "pareto_optimal_fraction": 0.07317073170731707
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A1_PQC_AUTH",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A2_PQC_LINDBLAD",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A5_HYBRID_QKD_LINDBLAD",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A7_PQC_AUTH_NO_REPLAY",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_latency",
+      "pipeline_id": "A8_HYBRID_QKD_LINDBLAD_NO_REPLAY",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "B2_MINIMAL_PQC",
+      "pareto_optimal_fraction": 0.9444444444444444
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A0_MINIMAL_PQC",
+      "pareto_optimal_fraction": 0.5
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "B1_CLASSICAL",
+      "pareto_optimal_fraction": 0.3888888888888889
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "P1_PQC_MLDSA",
+      "pareto_optimal_fraction": 0.3611111111111111
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "P3_HYBRID_QKD",
+      "pareto_optimal_fraction": 0.3404255319148936
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A6_FULL_HARDENED",
+      "pareto_optimal_fraction": 0.1111111111111111
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A3_HYBRID_QKD",
+      "pareto_optimal_fraction": 0.07692307692307693
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A4_HYBRID_QKD_AUTH",
+      "pareto_optimal_fraction": 0.07692307692307693
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "P2_PQC_MLDSA_LINDBLAD",
+      "pareto_optimal_fraction": 0.07317073170731707
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "P4_HYBRID_QKD_LINDBLAD",
+      "pareto_optimal_fraction": 0.038461538461538464
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A1_PQC_AUTH",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A2_PQC_LINDBLAD",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A5_HYBRID_QKD_LINDBLAD",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A7_PQC_AUTH_NO_REPLAY",
+      "pareto_optimal_fraction": 0.0
+    },
+    {
+      "frontier_type": "security_vs_throughput",
+      "pipeline_id": "A8_HYBRID_QKD_LINDBLAD_NO_REPLAY",
+      "pareto_optimal_fraction": 0.0
+    }
+  ],
+  "oracle_regime_summary": []
+}

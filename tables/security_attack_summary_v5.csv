@@ -1,0 +1,16 @@
+pipeline_id,sample_count,ciphertext_tamper_success_rate,aad_tamper_success_rate,transcript_forgery_success_rate,replay_attack_success_rate,partial_leakage_reduced_key_recovery_accuracy,overall_attack_success_rate
+A0_MINIMAL_PQC,6,0.0,0.0,0.0,0.0,0.0,0.0
+A1_PQC_AUTH,6,0.0,0.0,0.0,0.0,0.0,0.0
+A2_PQC_LINDBLAD,21,0.0,0.0,0.0,0.0,0.0,0.0
+A3_HYBRID_QKD,23,0.0,0.0,0.0,0.0,0.0,0.0
+A4_HYBRID_QKD_AUTH,24,0.0,0.0,0.0,0.0,0.0,0.0
+A5_HYBRID_QKD_LINDBLAD,24,0.0,0.0,0.0,0.0,0.0,0.0
+A6_FULL_HARDENED,24,0.0,0.0,0.0,0.0,0.0,0.0
+A7_PQC_AUTH_NO_REPLAY,6,0.0,0.0,0.0,1.0,0.0,0.2
+A8_HYBRID_QKD_LINDBLAD_NO_REPLAY,24,0.0,0.0,0.0,1.0,0.0,0.2
+B1_CLASSICAL,24,0.0,0.0,0.0,0.0,0.0,0.0
+B2_MINIMAL_PQC,24,0.0,0.0,0.0,0.0,0.0,0.0
+P1_PQC_MLDSA,24,0.0,0.0,0.0,1.0,0.0,0.2
+P2_PQC_MLDSA_LINDBLAD,24,0.0,0.0,0.0,1.0,0.0,0.2
+P3_HYBRID_QKD,24,0.0,0.0,0.0,1.0,0.0,0.2
+P4_HYBRID_QKD_LINDBLAD,24,0.0,0.0,0.0,1.0,0.0,0.2

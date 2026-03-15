@@ -1,0 +1,4 @@
+metric,kruskal_statistic,kruskal_p_value,group_count
+effective_total_ms,258.2852024374979,5.541889326076615e-47,15
+throughput_bits_per_sec,17.496718268412224,0.23067234902497413,15
+security_score,999.9999999999999,1.5648726461777236e-204,15
